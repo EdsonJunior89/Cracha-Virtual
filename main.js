@@ -1,8 +1,8 @@
 const LinksSocialMedia = {
-  /* função */ github: 'edsonjunior89',
+  github: 'edsonjunior89',
   youtube: 'edsonjunior',
   facebook: 'facebook.com',
-  instagran: 'instagran.edsmjunior',
+  instagran: 'edsmjunior',
   twitter: 'twitter.com'
 }
 
